@@ -1,2 +1,11 @@
 span {font-style: italic;
-background-color: black;}
+background-color: rgb(143, 15, 15);}
+.list-conteiner{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+p{
+    color: rgb(187, 39, 39);
+    font-size: 30px;
+}
